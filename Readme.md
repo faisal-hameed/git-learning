@@ -13,7 +13,7 @@
 ### Advance Concepts
 
 1. [Git LFS](8.git-lfs.md) 
-2. Line endings
+2. [Line endings](10.git-line-ending.md)
 3. Credential manager
 4. [Git Submodules](9.git-submodules.md)
 5. Git Subtree
