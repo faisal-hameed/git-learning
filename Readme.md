@@ -14,10 +14,10 @@
 
 1. [Git LFS](8.git-lfs.md) 
 2. [Line endings](10.git-line-ending.md)
-3. Credential manager
+3. [Credential manager] 12.git-cred-manager.md
 4. [Git Submodules](9.git-submodules.md)
-5. [Git Subtree] (11.git-subtree.md)
-6. Git-filter-branch
+5. [Git Subtree](11.git-subtree.md)
+6. [Git-filter-branch](13.git-filter-branch)
 
 ### Git Snapshots
 <img src="./images/deltas.png" alt="Drawing" style="width: 800px;"/>
